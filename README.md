@@ -10,8 +10,8 @@ Menu of Sushi.
 - JavaScript
 
 ### Things to do 🧾
-Form to add a food.
-Menu List
-Menu Schema
+- Form to add a food.
+- Menu List
+- Menu Schema
 
 
