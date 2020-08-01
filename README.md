@@ -1,7 +1,7 @@
-# Sushi Cart Menu
+# Sushi Cart Menu 🍣
 Menu of Sushi.
 
-## Tecnology 
+## Tecnology  ⚛️
 - React
 - NodeJs
 - Express
@@ -9,7 +9,7 @@ Menu of Sushi.
 - MongoDB
 - JavaScript
 
-### Things to do
+### Things to do 🧾
 Form to add a food.
 Menu List
 Menu Schema
